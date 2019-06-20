@@ -1,2 +1,14 @@
 # hello-world
-Basic introduction
+//java exercises
+public class hello-world(){
+  {
+    public static void main(String[] args){
+  
+
+
+
+
+
+    }
+  }
+}
